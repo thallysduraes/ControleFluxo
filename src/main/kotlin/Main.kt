@@ -1,5 +1,4 @@
 fun main() {
-    ex3();
 }
 
 /* Ex1) Escreva um programa capaz de ler dois números inteiros que representam os lados de uma figura geométrica.
